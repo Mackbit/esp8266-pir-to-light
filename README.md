@@ -1,4 +1,4 @@
-# ESP8266 HTTP PIR Sensor.
+# ESP8266 HTTP PIR Sensor
 
 ESP8266 HTTP PIR Sensor controlling light source via Shelly 1 Wi-Fi switch in local network. 
 
